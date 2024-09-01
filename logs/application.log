@@ -1,0 +1,496 @@
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-3] GameCharacter.trace(179) - X:30, Y:240 VX:0 VY:0
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-3] GameCharacter.trace(179) - X:9, Y:240 VX:6 VY:0
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-3] GameCharacter.trace(179) - X:-12, Y:240 VX:12 VY:0
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-3] GameCharacter.trace(179) - X:0, Y:240 VX:18 VY:0
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:04 [Thread-3] GameCharacter.trace(179) - X:119, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-3] GameCharacter.trace(179) - X:239, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-3] GameCharacter.trace(179) - X:359, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-3] GameCharacter.trace(179) - X:479, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-3] GameCharacter.trace(179) - X:619, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-3] GameCharacter.trace(179) - X:739, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-3] GameCharacter.trace(179) - X:788, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-3] GameCharacter.trace(179) - X:768, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:05 [Thread-3] GameCharacter.trace(179) - X:648, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:06 [Thread-3] GameCharacter.trace(179) - X:508, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:07 [Thread-3] GameCharacter.trace(179) - X:388, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:07 [Thread-3] GameCharacter.trace(179) - X:388, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:07 [Thread-3] GameCharacter.trace(179) - X:388, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-3] GameCharacter.trace(179) - X:388, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-3] GameCharacter.trace(179) - X:388, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-3] GameCharacter.trace(179) - X:388, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-3] GameCharacter.trace(179) - X:388, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-3] GameCharacter.trace(179) - X:388, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-3] GameCharacter.trace(179) - X:388, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-3] GameCharacter.trace(179) - X:368, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:08 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-3] GameCharacter.trace(179) - X:248, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-3] GameCharacter.trace(179) - X:248, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-3] GameCharacter.trace(179) - X:128, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-3] GameCharacter.trace(179) - X:128, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-3] GameCharacter.trace(179) - X:8, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-3] GameCharacter.trace(179) - X:0, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-3] GameCharacter.trace(179) - X:0, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-3] GameCharacter.trace(179) - X:0, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:09 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:10 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:11 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:12 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:12 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-3] GameCharacter.trace(179) - X:240, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-3] GameCharacter.trace(179) - X:240, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-3] GameCharacter.trace(179) - X:240, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-3] GameCharacter.trace(179) - X:240, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:13 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:14 [Thread-3] GameCharacter.trace(179) - X:240, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:14 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:14 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:14 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:14 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:14 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:14 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:14 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:14 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:17 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:17 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:18 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:18 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:18 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:18 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:18 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:18 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:18 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:18 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:18 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:19 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:19 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:19 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:19 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:19 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:19 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:19 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:20 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:21 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:24 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:25 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:27 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:28 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:29 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:30 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:31 [Thread-4] GameCharacter.checkReachGameWall(146) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
+[ INFO] Sun, 2024-09-01 21:33:32 [Thread-4] GameCharacter.checkReachGameWall(149) - ReachGameWall
+[ INFO] Sun, 2024-09-01 21:33:33 [Thread-3] GameCharacter.trace(179) - X:120, Y:240 VX:20 VY:0
